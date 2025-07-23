@@ -1,0 +1,14 @@
+E:\C#\OperatorsExpressiosStatements\bin\Debug\net8.0\OperatorsExpressiosStatements.exe
+E:\C#\OperatorsExpressiosStatements\bin\Debug\net8.0\OperatorsExpressiosStatements.deps.json
+E:\C#\OperatorsExpressiosStatements\bin\Debug\net8.0\OperatorsExpressiosStatements.runtimeconfig.json
+E:\C#\OperatorsExpressiosStatements\bin\Debug\net8.0\OperatorsExpressiosStatements.dll
+E:\C#\OperatorsExpressiosStatements\bin\Debug\net8.0\OperatorsExpressiosStatements.pdb
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.AssemblyInfoInputs.cache
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.AssemblyInfo.cs
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.csproj.CoreCompileInputs.cache
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.dll
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\refint\OperatorsExpressiosStatements.dll
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.pdb
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\OperatorsExpressiosStatements.genruntimeconfig.cache
+E:\C#\OperatorsExpressiosStatements\obj\Debug\net8.0\ref\OperatorsExpressiosStatements.dll

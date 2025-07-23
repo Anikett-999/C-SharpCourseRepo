@@ -1,0 +1,14 @@
+E:\C#\Decisions\bin\Debug\net8.0\Decisions.exe
+E:\C#\Decisions\bin\Debug\net8.0\Decisions.deps.json
+E:\C#\Decisions\bin\Debug\net8.0\Decisions.runtimeconfig.json
+E:\C#\Decisions\bin\Debug\net8.0\Decisions.dll
+E:\C#\Decisions\bin\Debug\net8.0\Decisions.pdb
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfoInputs.cache
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfo.cs
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.csproj.CoreCompileInputs.cache
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.dll
+E:\C#\Decisions\obj\Debug\net8.0\refint\Decisions.dll
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.pdb
+E:\C#\Decisions\obj\Debug\net8.0\Decisions.genruntimeconfig.cache
+E:\C#\Decisions\obj\Debug\net8.0\ref\Decisions.dll

@@ -1,0 +1,14 @@
+E:\C#\understandingArrays\bin\Debug\net8.0\understandingArrays.exe
+E:\C#\understandingArrays\bin\Debug\net8.0\understandingArrays.deps.json
+E:\C#\understandingArrays\bin\Debug\net8.0\understandingArrays.runtimeconfig.json
+E:\C#\understandingArrays\bin\Debug\net8.0\understandingArrays.dll
+E:\C#\understandingArrays\bin\Debug\net8.0\understandingArrays.pdb
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.AssemblyInfoInputs.cache
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.AssemblyInfo.cs
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.csproj.CoreCompileInputs.cache
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.dll
+E:\C#\understandingArrays\obj\Debug\net8.0\refint\understandingArrays.dll
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.pdb
+E:\C#\understandingArrays\obj\Debug\net8.0\understandingArrays.genruntimeconfig.cache
+E:\C#\understandingArrays\obj\Debug\net8.0\ref\understandingArrays.dll

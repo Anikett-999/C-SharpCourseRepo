@@ -1,0 +1,14 @@
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.AssemblyInfoInputs.cache
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.AssemblyInfo.cs
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.csproj.CoreCompileInputs.cache
+E:\C#\forIteration\bin\Debug\net8.0\forIteration.exe
+E:\C#\forIteration\bin\Debug\net8.0\forIteration.deps.json
+E:\C#\forIteration\bin\Debug\net8.0\forIteration.runtimeconfig.json
+E:\C#\forIteration\bin\Debug\net8.0\forIteration.dll
+E:\C#\forIteration\bin\Debug\net8.0\forIteration.pdb
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.dll
+E:\C#\forIteration\obj\Debug\net8.0\refint\forIteration.dll
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.pdb
+E:\C#\forIteration\obj\Debug\net8.0\forIteration.genruntimeconfig.cache
+E:\C#\forIteration\obj\Debug\net8.0\ref\forIteration.dll
