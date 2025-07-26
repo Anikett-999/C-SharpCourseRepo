@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\C#\26-07-2025\MyBank.cs" Link="MyBank.cs" />
+    <Compile Include="E:\C#\26-07-2025\MySuperBank.cs" Link="MySuperBank.cs" />
+  </ItemGroup>
+
+</Project>

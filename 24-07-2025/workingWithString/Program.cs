@@ -54,10 +54,10 @@ namespace workingWithString
             Console.WriteLine(song);
 
             
-            */
+            
             //Trim method 
             // printin lenght of the string  
-            
+            /*
             string r = " hey ";
             Console.WriteLine(r.Trim().Length);
             string len = string.Format("Length of song Before trim :{0} \nLength After trim :{1}", r.Length, r.Trim().Length);
@@ -75,6 +75,7 @@ namespace workingWithString
             }
             Console.WriteLine(row);*/
 
+            /*
             StringBuilder mystr = new StringBuilder();
             
             for(int i=0; i<= 100; i++)
@@ -83,6 +84,17 @@ namespace workingWithString
                 mystr.Append(i);
             }
             Console.WriteLine(mystr);
+            
+            */
+            string song = "I touch the sky and ain't got shi* on me !";
+            Console.WriteLine(song);
+            Console.WriteLine(song.Replace("!", "World"));
+            Console.WriteLine(song.ToUpper());
+            Console.WriteLine(song.ToLower());
+            Console.WriteLine(song.Contains("sky"));
+            Console.WriteLine(song.Contains("noo"));
+            Console.WriteLine(song.StartsWith("I"));
+            Console.WriteLine(song.EndsWith("!"));
         }
 
 
